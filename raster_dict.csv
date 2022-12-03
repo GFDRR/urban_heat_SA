@@ -1,1 +1,45 @@
-'T2M_daily_mean_min_topography','Nighttime Urban Heat Island corrected for topography'
+Cooling degree hours: Annual number of hours during which the temperatures rises over 25°C, multiplied by the number of degrees the temperature rises above 25°C. This is an international standard to estimate the energy demand for air conditioning use.
+
+CSDI: Cold spell duration index. Annual number of days with at least six consecutive days when the night temperature < 10th percentile
+
+Heatwave days: Number of heatwave days per year calculated following the definition of the South African Weather Service. If the maximum temperature at a particular town is expected to meet or exceed 5 degrees C above the average maximum temperature of “the hottest month” for that particular place (this is 32°C for Johannesburg & Ekurhuleni), as well as persisting in that mode for 3 days or more (https://www.weathersa.co.za/home/weatherques)
+
+T2M_daily_mean_max: Average daily maximum temperature
+
+T2M_daily_mean_max_topography: Daytime Urban Heat Island corrected for topography
+
+T2M_daily_mean_min: Average daily minimum temperature
+
+T2M_daily_mean_min_topography: Nighttime Urban Heat Island corrected for topography
+
+T2M_dayover25: Annual number of days attaining a maximum temperature > 25°C
+
+T2M_dayover25_duetourban: Annual number of days attaining a maximum temperature > 25°C that are caused by urban canopy
+
+T2M_dayover30: Annual number of days attaining a maximum temperature > 30°C
+
+T2M_dayover30_duetourban: Annual number of days attaining a maximum temperature > 30°C that are caused by urban canopy
+
+T2M_max: Absolute maximum temperature
+
+T2M_mean: Absolute average temperature
+
+T2M_min: Absolute minimum temperature
+
+T2M_nightover20: Number of nights attaining a minimum temperature not dropping below 20°C
+
+T2M_nightover25: Number of nights attaining a minimum temperature not dropping below 25°C
+
+TN10P: Annual number of days when the night temperature < 10th percentile
+
+TN90P: Annual number of days when the night temperature > 90th percentile
+
+TN_max: Annual minimum nighttime warmest temperature
+
+TX10P: Annual number of days when the day temperature < 10th percentile
+
+TX90P: Annual number of days when the day temperature > 90th percentile
+
+TX_min: Annual maximum daytime coolest temperature
+
+WSDI: Warm Spell Duration Index. Annual number of days with at least six consecutive days when daytime temperatues > 90th percentile
