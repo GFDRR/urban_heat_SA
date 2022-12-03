@@ -1,1 +1,0 @@
-{'T2M_daily_mean_min_topography': 'Nighttime Urban Heat Island corrected for topography'}
